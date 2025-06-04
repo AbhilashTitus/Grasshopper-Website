@@ -116,7 +116,7 @@ nav a:hover {
 /* Modern Hamburger Menu */
 nav .fa {
     display: none;
-    padding-left: 390px;
+    padding-left: 350px;
     color: #07833f;
     margin: 10px;
     font-size: 28px;
@@ -210,7 +210,7 @@ nav .fa {
 
     #title-one,
     #title-two {
-        font-size: 50px;
+        font-size: 40px;
         letter-spacing: 10px;
         text-align: center;
     }
